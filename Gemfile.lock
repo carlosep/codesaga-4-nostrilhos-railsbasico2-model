@@ -118,6 +118,3 @@ DEPENDENCIES
   rspec-rails
   sqlite3
   tzinfo-data
-
-BUNDLED WITH
-   1.10.5
